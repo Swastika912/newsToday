@@ -1,0 +1,9 @@
+<Route exact path='/general' element= {<News pageSize={5} country="in" category="business
+<Route exact path='/general' element= {<News pageSize={5} country="in" category="entertainment
+<Route exact path='/general' element= {<News pageSize={5} country="in" category="general
+<Route exact path='/general' element= {<News pageSize={5} country="in" category="health
+<Route exact path='/general' element= {<News pageSize={5} country="in" category="science
+<Route exact path='/general' element= {<News pageSize={5} country="in" category="sports
+<Route exact path='/general' element= {<News pageSize={5} country="in" category="technology
+
+<Route exact path='/general' element= {<News pageSize={5} country="in" category="general"/>}></Route>
